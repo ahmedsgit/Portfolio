@@ -5,9 +5,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const Projects = () => (
-  <div>
-    Projects
-  </div>
+  <Section nopadding id="projects">
+
+  </Section>
 );
 
 export default Projects;
